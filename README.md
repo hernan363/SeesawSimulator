@@ -1,11 +1,19 @@
 David Hernandez
+
+
 herna363@mail.chapman.edu
+
+
 written in c++
+
+
 
 Intructions:
 
 compile the file by typing in --> make
+
 run by typing in --> ./a.out
+
 
 In this assignment I found it was necessary to use a Boolean semaphore which is
 essentially a mutex lock. C++ provides a whole library dedicated to mutex locks
